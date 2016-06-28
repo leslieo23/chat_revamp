@@ -1,0 +1,39 @@
+{
+  "name": "chat_revamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslieo23/chat_revamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leslieo23/chat_revamp/issues"
+  },
+  "homepage": "https://github.com/leslieo23/chat_revamp#readme",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.1.0-rc.5",
+    "angular-material-icons": "^0.7.0",
+    "angular-socket-io": "^0.7.0",
+    "animate.css": "^3.5.1",
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "mongoose": "^4.5.2",
+    "morgan": "^1.7.0",
+    "node-webkit-builder": "^1.0.13",
+    "slush": "^1.1.1",
+    "slush-wean": "^0.1.9",
+    "socket.io": "^1.4.8"
+  }
+}
